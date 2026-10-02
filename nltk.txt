@@ -1,3 +1,0 @@
-punkt
-punkt_tab
-stopwords
